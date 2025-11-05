@@ -1,4 +1,7 @@
 # projectILE is a trajectory calculator
+![projectilelogo](https://i.imgur.com/qXDjajC.png)
+
+**projectILE showcase:** https://www.youtube.com/watch?v=7JDsN_Ntk0Y
 
 # THIS IS PUBLIC VERSION OF THE PROJECTILE!
 **Public version miss some GUI tweaks, but you don't need buy it. It's only made for people who want support me.**
