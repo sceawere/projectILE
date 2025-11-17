@@ -35,10 +35,8 @@ Weight, diameter, launch angle(1), muzzle velocity, drag coefficient(aerodynamic
 
 **Missing calculations:** Altitude-based temperature, atmosphere. No wind, Projectile spinning or not?
 
-*I couldn't create an actual .exe file with MinGW, because it never can found the "SDL.h" file, so i created 2 version. Also since it's open-source, you just can re-compile it on your system.*
+### Updates:
 
-### Versions:
+*3-NOV-2025: Initial Relase*
 
-SDL2 included: Has it's own SDL2 files installed already.
-
-SDL2 system: Don't contain SDL2 files, try to pull them from your system.
+**@Latest** 17-NOV-2025: Major code fix and compatibility update, actually tested in a Windows environment.
