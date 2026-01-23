@@ -1,3 +1,5 @@
+## I stopped develop my programming projects, simply because they don't worth the effort and time i put in them. I'll continue programming, but it's not my main focus anymore.
+
 # projectILE is a trajectory calculator
 ![projectilelogo](https://i.imgur.com/qXDjajC.png)
 
